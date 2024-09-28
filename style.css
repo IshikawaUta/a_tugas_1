@@ -6,6 +6,7 @@ body{
 }
 
 #showcase{
+  width: 1000px;
   min-height:1200px;
   background:url('/gojo.jpg') no-repeat;
   background-position: center;
