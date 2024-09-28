@@ -6,7 +6,7 @@ body{
 }
 
 #showcase{
-  width: 1000px;
+  width: 1100px;
   min-height:1200px;
   background:url('/gojo.jpg') no-repeat;
   background-position: center;
@@ -18,12 +18,12 @@ body{
 
 #showcase h1{
   margin-top:100px;
-  font-size:40px;
+  font-size:20px;
   margin-bottom:10px;
 }
 
 #showcase p{
-  font-size:25px;
+  font-size:20px;
 }
 
 #showcase h1{
