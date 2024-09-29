@@ -15,6 +15,28 @@ body{
   border-radius: 40px 40px 40px 40px;
 }
 
+#showcase1{
+  min-height:300px;
+  width: 350px;
+  background:url('/welcome.jpg') no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-align: left;
+  color:#849dc6fb;
+  border-radius: 40px 40px 40px 40px;
+}
+
+#showcase2{
+  min-height:250px;
+  width: 590px;
+  background:url('/thanks.jpg') no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-align: left;
+  color:#849dc6fb;
+  border-radius: 40px 40px 40px 40px;
+}
+
 #showcase h1{
   margin-top:100px;
   font-size:15px;
