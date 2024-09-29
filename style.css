@@ -1,0 +1,31 @@
+body{
+  font: 15px/1.5 courier new;
+  padding:0;
+  margin:0;
+  background-color:#9097ad;
+}
+
+#showcase{
+  min-height:1200px;
+  background:url('../img/gojo.jpg') no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-align: left;
+  color:#849dc6fb;
+  border-radius: 40px 40px 40px 40px;
+}
+
+#showcase h1{
+  margin-top:100px;
+  font-size:40px;
+  margin-bottom:10px;
+}
+
+#showcase p{
+  font-size:25px;
+}
+
+#showcase h1{
+    margin-top:40px;
+  }
+  
