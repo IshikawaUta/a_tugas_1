@@ -1,6 +1,6 @@
 # Aqidah bisnis
 # Tugas 1
-Reflit Me:
+Replit Me:
 ```
 https://replit.com/@komikers09
 ```
