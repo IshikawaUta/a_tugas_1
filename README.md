@@ -1,6 +1,10 @@
 # Aqidah bisnis
 # Tugas 1
-<p>Reflit Me</p>
+##Reflit Me:
 ```
 https://replit.com/@komikers09
+```
+##Vercel Me:
+```
+https://vercel.com/uta09s-projects
 ```
