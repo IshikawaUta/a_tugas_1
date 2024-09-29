@@ -7,7 +7,7 @@ body{
 
 #showcase{
   min-height:1200px;
-  background:url('../img/gojo.jpg') no-repeat;
+  background:url('/gojo.jpg') no-repeat;
   background-position: center;
   background-size: cover;
   text-align: left;
